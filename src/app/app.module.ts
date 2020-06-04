@@ -10,6 +10,7 @@ import { ProtegidaComponent } from './components/protegida/protegida.component';
 import { PreciosComponent } from './components/precios/precios.component';
 import { FooterComponent } from './components/footer/footer.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
