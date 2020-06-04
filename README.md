@@ -31,8 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##  Creator of the AUTH0-APP project
 
 👤 **Sergio V.O**
-* Twitter: [@https://twitter.com\/smavo24](https://twitter.com/smavo24)
-* Github: [@smavo](https://github.com/smavo)
-* Gitlab: [@smavo] (https://gitlab.com/smavo)
-* LinkedIn: [@https://www.linkedin.com/in/smavo24/](https://www.linkedin.com/in/smavo24/)
+* Twitter:  (https://twitter.com/smavo24)
+* Github:   (https://github.com/smavo)
+* Gitlab:   (https://gitlab.com/smavo)
+* LinkedIn: (https://www.linkedin.com/in/smavo24/)
 
