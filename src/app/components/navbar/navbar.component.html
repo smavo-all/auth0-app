@@ -22,5 +22,10 @@
             </li>
         </ul>
 
+        <span class="navbar.tex">
+            <button *ngIf="!auth.loggedIn" class="btn btn-outline-primary"> Ingresar </button>
+            <button *ngIf="auth.loggedIn" class="btn btn-outline-danger"> Salir </button>
+        </span>
+
     </div>
 </nav>
